@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Lectia 30</h1>
+    <p>Buna Ziua</p>
     <hr>
 </body>
 </html>
