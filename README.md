@@ -1,2 +1,2 @@
 # lectia30
-Studie github in cadrul VS code
+Studiem github in cadrul VS code
